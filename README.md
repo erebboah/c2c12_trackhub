@@ -14,9 +14,11 @@ It will display the following:
 URL to paste into [My Hubs](https://genome.ucsc.edu/cgi-bin/hgHubConnect?hgsid=1096729927_axkdBgbtTPLw67dOTnlGnY69a2jG#unlistedHubs): https://raw.githubusercontent.com/erebboah/c2c12_trackhub/main/hub.txt
 
 ## Step 1
+Paste link into My Hubs page:
 ![Step 1](https://github.com/erebboah/c2c12_trackhub/blob/main/step1.png)
 
 ## Step 2
+There will be a brief message about the track hub as you are redirected to the main page. Enter in a gene, for example Tnnt2:
 ![Step 2](https://github.com/erebboah/c2c12_trackhub/blob/main/step2.png)
 
 ## Step 3
