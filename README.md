@@ -24,6 +24,8 @@ There will be a brief message about the track hub as you are redirected to the m
 ![Step 2](https://github.com/erebboah/c2c12_trackhub/blob/main/step2.png)
 
 ## Step 3
+Visualize data.
+
 ![Step 3](https://github.com/erebboah/c2c12_trackhub/blob/main/step3.png)
 
 The files will be slightly out of order as they are displayed in the figure; click and drag to reorder. My browser settings are below.
