@@ -14,7 +14,7 @@ It will display the following:
 URL to paste into [My Hubs](https://genome.ucsc.edu/cgi-bin/hgHubConnect?hgsid=1096729927_axkdBgbtTPLw67dOTnlGnY69a2jG#unlistedHubs): https://raw.githubusercontent.com/erebboah/c2c12_trackhub/main/hub.txt
 
 ## Step 1
-Paste link into My Hubs page:
+Navigate to UCSC Genome Browser, My Data > Track Hubs (or use link above). Paste link into My Hubs page:
 
 ![Step 1](https://github.com/erebboah/c2c12_trackhub/blob/main/step1.png)
 
