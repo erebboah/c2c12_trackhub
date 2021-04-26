@@ -1,0 +1,5 @@
+hub c2c12_paper
+shortLabel c2c12_paper
+longLabel c2c12_paper_trackhub
+genomesFile genomes.txt
+email erebboah@uci.edu

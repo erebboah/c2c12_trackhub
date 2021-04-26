@@ -1,0 +1,308 @@
+track A1_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster1_MB.bw
+shortLabel clusterA1_MB_cov
+longLabel clusterA1_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 61,197,162
+maxHeightPixels 100:30:8
+
+track A2_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster2_MB.bw
+shortLabel clusterA2_MB_cov
+longLabel clusterA2_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 219,156,160
+maxHeightPixels 100:30:8
+
+track A3_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster3_MB.bw
+shortLabel clusterA3_MB_cov
+longLabel clusterA3_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 179,179,179
+maxHeightPixels 100:30:8
+
+track A4_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster4_MB.bw
+shortLabel clusterA4_MB_cov
+longLabel clusterA4_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 190,145,202
+maxHeightPixels 100:30:8
+
+track A5_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster5_MB.bw
+shortLabel clusterA5_MB_cov
+longLabel clusterA5_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 233,133,198
+maxHeightPixels 100:30:8
+
+track A6_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster6_MB.bw
+shortLabel clusterA6_MB_cov
+longLabel clusterA6_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 243,198,110
+maxHeightPixels 100:30:8
+
+track A7_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster7_MB.bw
+shortLabel clusterA7_MB_cov
+longLabel clusterA7_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 200,185,164
+maxHeightPixels 100:30:8
+
+track A8_MB_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster8_MB.bw
+shortLabel clusterA8_MB_cov
+longLabel clusterA8_MB_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 225,192,147
+maxHeightPixels 100:30:8
+
+track A9_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster9_MT.bw
+shortLabel clusterA9_MT_cov
+longLabel clusterA9_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 210,217,0
+maxHeightPixels 100:30:8
+
+track A10_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster10_MT.bw
+shortLabel clusterA10_MT_cov
+longLabel clusterA10_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 254,215,0
+maxHeightPixels 100:30:8
+
+track A11_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster11_MT.bw
+shortLabel clusterA11_MT_cov
+longLabel clusterA11_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 181,194,105
+maxHeightPixels 100:30:8
+
+track A12_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster12_MT.bw
+shortLabel clusterA12_MT_cov
+longLabel clusterA12_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:8000
+alwaysZero on
+color 162,218,42
+maxHeightPixels 100:30:8
+
+track A13_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster13_MT.bw
+shortLabel clusterA13_MT_cov
+longLabel clusterA13_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 144,158,205
+maxHeightPixels 100:30:8
+
+track A14_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster14_MT.bw
+shortLabel clusterA14_MT_cov
+longLabel clusterA14_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 236,145,100
+maxHeightPixels 100:30:8
+
+track A15_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster15_MT.bw
+shortLabel clusterA15_MT_cov
+longLabel clusterA15_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 185,152,166
+maxHeightPixels 100:30:8
+
+track A16_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster16_MT.bw
+shortLabel clusterA16_MT_cov
+longLabel clusterA16_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 251,209,43
+maxHeightPixels 100:30:8
+
+track A17_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster17_MT.bw
+shortLabel clusterA17_MT_cov
+longLabel clusterA17_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 237,141,115
+maxHeightPixels 100:30:8
+
+track A18_MT_cov
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/cluster18_MT.bw
+shortLabel clusterA18_MT_cov
+longLabel clusterA18_MT_coverage
+type bigWig
+visibility full
+autoScale off
+viewLimits 0:3500
+alwaysZero on
+color 159,173,133
+maxHeightPixels 100:30:8
+
+track snatac_peaks
+type bigBed 4
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/snatac_pseudobulk_peaks_18clust_feb3.bb
+shortLabel snatac_pseudobulk_peaks
+longLabel snatac_pseudobulk_peaks_18clust
+visibility dense
+
+track tss
+type bigBed 6
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/sc_tss_10.bb
+shortLabel long_splitseq_tss
+longLabel long_splitseq_tss_filtered_10pct
+visibility dense
+
+track encode_ccres
+type bigBed 9
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/encodeCcreCombined.9cols.bb
+shortLabel encode_ccres
+longLabel encode_mm10_ccres
+itemRgb on
+visibility dense
+
+track L1_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L1_tss_reads.bam
+shortLabel clusterL1_reads
+longLabel clusterL1_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 255,217,46
+
+track L2_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L2_tss_reads.bam
+shortLabel clusterL2_reads
+longLabel clusterL2_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 230,196,148
+
+track L3_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L3_tss_reads.bam
+shortLabel clusterL3_reads
+longLabel clusterL3_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 102,194,165
+
+track L4_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L4_tss_reads.bam
+shortLabel clusterL4_reads
+longLabel clusterL4_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 142,160,202
+
+track L5_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L5_tss_reads.bam
+shortLabel clusterL5_reads
+longLabel clusterL5_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 252,142,98
+
+track L6_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L6_tss_reads.bam
+shortLabel clusterL6_reads
+longLabel clusterL6_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 230,137,194
+
+track L7_reads
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L7_tss_reads.bam
+shortLabel clusterL7_reads
+longLabel clusterL7_tss_reads
+type bam
+visibility squish
+bamColorMode off
+color 166,217,83
+
+track gencode_v21
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/gencode_v21_annotation.bb 
+shortLabel gencode_v21
+longLabel gencode_v21_mm10
+type bigGenePred
+visibility full
+baseColorDefault genomicCodons
