@@ -11,4 +11,4 @@ It will display the following:
 5. LR-Split-seq reads across 7 clusters, used to call TSSs (bams and bam indices)
 6. Comprehensive set of GENCODE vM21 (bigBed)
 
-URL to paste into [My Hubs](https://genome.ucsc.edu/cgi-bin/hgHubConnect?hgsid=1096729927_axkdBgbtTPLw67dOTnlGnY69a2jG#unlistedHubs): 
+URL to paste into [My Hubs](https://genome.ucsc.edu/cgi-bin/hgHubConnect?hgsid=1096729927_axkdBgbtTPLw67dOTnlGnY69a2jG#unlistedHubs): https://raw.githubusercontent.com/erebboah/c2c12_trackhub/main/hub.txt
