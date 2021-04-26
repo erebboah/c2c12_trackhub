@@ -23,3 +23,5 @@ URL to paste into [My Hubs](https://genome.ucsc.edu/cgi-bin/hgHubConnect?hgsid=1
 ![Step 3](https://github.com/erebboah/c2c12_trackhub/blob/main/step3.png)
 
 The files will be slightly out of order as they are displayed in the figure; click and drag to reorder. My browser settings are below.
+
+![Settings](https://github.com/erebboah/c2c12_trackhub/blob/main/settings.png)
