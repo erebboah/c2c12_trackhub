@@ -273,7 +273,7 @@ bamColorMode off
 color 142,160,202
 
 track L5_reads
-bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper/L5_tss_reads.bam
+bigDataUrl http://crick.bio.uci.edu/erebboah/c2c12_paper_hub/L5_tss_reads.bam
 shortLabel clusterL5_reads
 longLabel clusterL5_tss_reads
 type bam
